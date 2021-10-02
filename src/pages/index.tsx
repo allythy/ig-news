@@ -6,9 +6,6 @@ export default function Home() {
       <Head>
         <title>Inicio | Ignws</title>
       </Head>
-      <h2>
-        Hello<span>word</span>
-      </h2>
     </>
   )
 }
